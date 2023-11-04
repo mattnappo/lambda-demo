@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "TokenRequestModel",
+    "type" : "object",
+    "properties" : {
+        "message" : {
+            "type" : "string"
+        },
+        "time" : {
+            "type" : "string"
+        }
+    }
+}
